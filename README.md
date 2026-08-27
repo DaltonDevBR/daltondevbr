@@ -118,17 +118,6 @@
 </p1>
 <br/>
 
-### <h2>📊 Estatísticas</h2>
-
-<p align="center">
-  <img 
-    width="44%" 
-    src="https://github-readme-stats.profile-readme-generator.com/api?username=DaltonDevBR" />
-  <img 
-    width="38%" 
-    src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=DaltonDevBR" />
-</p>
-
 ### <h2>🎯 Objetivos</h2>
 
 <p1>
@@ -144,6 +133,17 @@
    • Construir soluções que gerem impacto positivo.
 
 </p1>
+
+### <h2>📊 Estatísticas</h2>
+
+<p align="center">
+  <img 
+    width="44%" 
+    src="https://github-readme-stats.profile-readme-generator.com/api?username=DaltonDevBR" />
+  <img 
+    width="38%" 
+    src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=DaltonDevBR" />
+</p>
 
 <p align="center"> <i>"Aprender, praticar e evoluir todos os dias."</i> </p>
 
