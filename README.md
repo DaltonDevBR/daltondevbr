@@ -20,12 +20,16 @@
 </p1>
 <br/>
 
-<p align="center"> 
-    <img 
-        src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/snake.svg" 
-        alt="Snake animation"
-    /> 
-</p>
+<h3>~/about-me</h3>
+
+<pre>
+Nome: Dalton Dias
+Idade: 19
+Curso: Sistemas de Informação
+SO Favorito: Linux Mint
+Linguagem Atual: C
+Objetivo: Desenvolvedor Full Stack
+</pre>
 
 ### <h2>🌐 Redes Sociais</h2>
 
@@ -78,11 +82,7 @@
     <img 
         width="40" 
         src="https://skillicons.dev/icons?i=vscode" 
-        alt="VS Code"> 
-    <img 
-        width="40" 
-        src="https://skillicons.dev/icons?i=git" 
-        alt="Git"> 
+        alt="VS Code">  
     <img 
         width="40" 
         src="https://skillicons.dev/icons?i=github"
