@@ -1,97 +1,131 @@
 # 👨‍💻 Dalton Dias
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack em formação`**
 
-Me chamo Dalton Dias, tenho 19 anos e sou natural de Ceilândia-DF. Concluí o Ensino Médio Integrado ao Curso Técnico em Informática no IFNMG – Campus Januária. Atualmente, curso Bacharelado em Sistemas de Informação no IFNMG – Campus Januária. Sou apaixonado por tecnologia e compartilho meu aprendizado por meio do perfil "[Nexir Tech](https://www.instagram.com/nexir.tech/)", onde mostro minha evolução na área e compartilho conhecimentos sobre tecnologia e informática.
+<p>
+    📍 Ceilândia - DF
+    🎓 Bacharelado em Sistemas de Informação — IFNMG Campus Januária
+    💻 Técnico em Informática pelo IFNMG Campus Januária
+    🚀 Apaixonado por tecnologia, programação e desenvolvimento de soluções digitais.
+</p>
+<br/>
 
-<p align="left">
-    <a href="https://www.instagram.com/nexir.tech/">
-        <img 
-            alt="Follow me on Instagram" 
-            title="Me siga no Instagram" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a> 
-    <a href="https://github.com/DaltonDevBR?tab=repositories">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/DaltonDevBR?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p>
+    Atualmente estou aprofundando meus conhecimentos em desenvolvimento de software, estruturas de dados, sistemas computacionais e desenvolvimento web. Também compartilho minha jornada de aprendizado através do projeto Nexir Tech, onde publico conteúdos relacionados à tecnologia, informática e programação.
+</p>
+<br/>
+
+<p align="center"> 
+    <img 
+        src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/snake.svg" 
+        alt="Snake animation"
+    /> 
 </p>
 
----
+### 🌐 Redes Sociais
 
-### 🤖 Linguagens e Tecnologias
+<p> 
+    <a 
+        href="https://www.instagram.com/nexir.tech/"> 
+    <img 
+        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        /> 
+    </a>
+    <a 
+        href="https://www.linkedin.com/">  
+    <img 
+        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
+    </a> 
+</p>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C"
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
+### 💻 Linguagens
 
-<br/>
+<p> 
+    <img 
+        width="40" 
+        src="https://skillicons.dev/icons?i=c" 
+        alt="C"> 
+    <img 
+        width="40" 
+        src="https://skillicons.dev/icons?i=html" 
+        alt="HTML"> 
+    <img 
+        width="40" 
+        src="https://skillicons.dev/icons?i=css"
+        alt="CSS"> 
+    <img 
+        width="40" 
+        src="https://skillicons.dev/icons?i=javascript" 
+        alt="JavaScript"> 
+    <img 
+        width="40" 
+        src="https://skillicons.dev/icons?i=arduino" 
+        alt="Arduino"> 
+</p>
+
+### 🛠️ Tecnologias e Ferramentas
+
+<p> 
+    <img 
+        width="40" 
+        src="https://skillicons.dev/icons?i=linux" 
+        alt="Linux"> 
+    <img 
+        width="40" 
+        src="https://skillicons.dev/icons?i=vscode" 
+        alt="VS Code"> 
+    <img 
+        width="40" 
+        src="https://skillicons.dev/icons?i=git" 
+        alt="Git"> 
+    <img 
+        width="40" 
+        src="https://skillicons.dev/icons?i=github"
+        alt="GitHub"> 
+    <img 
+        width="40" 
+        src="https://skillicons.dev/icons?i=bootstrap" 
+        alt="Bootstrap"> 
+</p>
+
+### 🚗 Hobbies e Interesses
+
+<p align="center"> 
+    <img 
+        src="https://gifdb.com/images/high/drift-cars-animated-cars-cvg19iymno83ia8j.webp" 
+        width="250" 
+        alt="Drift Car"> 
+</p>
+
+<p>
+    Tecnologia
+    Programação
+    Linux
+    Hardware
+    Segurança Digital
+    Automóveis
+</p>
 <br/>
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+    width="44%" 
+    src="https://github-readme-stats.profile-readme-generator.com/api?username=DaltonDevBR" />
+  <img 
+    width="38%" 
+    src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=DaltonDevBR" />
 </p>
+
+### 🎯 Objetivos
+
+<p>
+    Aprimorar minhas habilidades em desenvolvimento de software.
+    Desenvolver projetos open source.
+    Contribuir para a comunidade de tecnologia.
+    Evoluir na área de Sistemas de Informação.
+    Construir soluções que gerem impacto positivo.
+</p>
+
+<p align="center"> <i>"Aprender, praticar e evoluir todos os dias."</i> </p>
