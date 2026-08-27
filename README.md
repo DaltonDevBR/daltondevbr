@@ -2,17 +2,22 @@
 
 **`Desenvolvedor FullStack em formação`**
 
-<p>
+<p1>
+
     📍 Ceilândia - DF
-    🎓 Bacharelado em Sistemas de Informação — IFNMG Campus Januária
-    💻 Técnico em Informática pelo IFNMG Campus Januária
+
+    🎓 Cursando Bacharelado em Sistemas de Informação — IFNMG Campus Januária
+
+    💻 Técnico em Informática — IFNMG Campus Januária
+
     🚀 Apaixonado por tecnologia, programação e desenvolvimento de soluções digitais.
-</p>
+
+</p1>
 <br/>
 
-<p>
+<p1>
     Atualmente estou aprofundando meus conhecimentos em desenvolvimento de software, estruturas de dados, sistemas computacionais e desenvolvimento web. Também compartilho minha jornada de aprendizado através do projeto Nexir Tech, onde publico conteúdos relacionados à tecnologia, informática e programação.
-</p>
+</p1>
 <br/>
 
 <p align="center"> 
@@ -22,7 +27,7 @@
     /> 
 </p>
 
-### 🌐 Redes Sociais
+### <h2>🌐 Redes Sociais</h2>
 
 <p> 
     <a 
@@ -38,7 +43,7 @@
     </a> 
 </p>
 
-### 💻 Linguagens
+### <h2>💻 Linguagens</h2>
 
 <p> 
     <img 
@@ -63,7 +68,7 @@
         alt="Arduino"> 
 </p>
 
-### 🛠️ Tecnologias e Ferramentas
+### <h2>🛠️ Tecnologias e Ferramentas</h2>
 
 <p> 
     <img 
@@ -88,7 +93,7 @@
         alt="Bootstrap"> 
 </p>
 
-### 🚗 Hobbies e Interesses
+### <h2>🚗 Hobbies e Interesses</h2>
 
 <p align="center"> 
     <img 
@@ -97,17 +102,23 @@
         alt="Drift Car"> 
 </p>
 
-<p>
-    Tecnologia
-    Programação
-    Linux
-    Hardware
-    Segurança Digital
-    Automóveis
-</p>
+<p1>
+
+    • Tecnologia
+
+    • Programação
+
+    • Linux
+
+    • Hardware
+
+    • Segurança Digital
+
+    • Automóveis
+</p1>
 <br/>
 
-### 📊 Estatísticas
+### <h2>📊 Estatísticas</h2>
 
 <p align="center">
   <img 
@@ -118,14 +129,21 @@
     src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=DaltonDevBR" />
 </p>
 
-### 🎯 Objetivos
+### <h2>🎯 Objetivos</h2>
 
-<p>
-    Aprimorar minhas habilidades em desenvolvimento de software.
-    Desenvolver projetos open source.
-    Contribuir para a comunidade de tecnologia.
-    Evoluir na área de Sistemas de Informação.
-    Construir soluções que gerem impacto positivo.
-</p>
+<p1>
+
+   • Aprimorar minhas habilidades em desenvolvimento de software.
+
+   • Desenvolver projetos open source.
+
+   • Contribuir para a comunidade de tecnologia.
+
+   • Evoluir na área de Sistemas de Informação.
+
+   • Construir soluções que gerem impacto positivo.
+
+</p1>
 
 <p align="center"> <i>"Aprender, praticar e evoluir todos os dias."</i> </p>
+
