@@ -41,7 +41,7 @@ Objetivo: Desenvolvedor Full Stack
         /> 
     </a>
     <a 
-        href="www.linkedin.com/in/dalton-dias-6789b1431">  
+        href="https://www.linkedin.com/in/dalton-dias-6789b1431">  
     <img 
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
     </a> 
